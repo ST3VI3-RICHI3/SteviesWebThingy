@@ -306,7 +306,7 @@ customization {
   orientation = bottom-right
   shadow = true
   centered = false
-  x = -157
+  x = -202
   action = addtext
   y = -25
   scale = 1.0
